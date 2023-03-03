@@ -3,3 +3,5 @@
 [![Actions Status](https://github.com/lens2002/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/lens2002/frontend-project-44/actions)
 
 "!https://api.codeclimate.com/v1/badges/42babd4cc29005246b5a/maintainability!":https://codeclimate.com/github/lens2002/frontend-project-44/maintainability
+
+https://asciinema.org/a/B5Ve7OCgVKBO1i6b6ScZtjd9y
